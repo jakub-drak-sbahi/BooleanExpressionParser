@@ -1,0 +1,7 @@
+C:\Users\Kuba\Documents\cv\git\BooleanExpressionParser\BooleanExpressionParser\obj\Debug\BooleanExpressionParser.csprojAssemblyReference.cache
+C:\Users\Kuba\Documents\cv\git\BooleanExpressionParser\BooleanExpressionParser\obj\Debug\BooleanExpressionParser.csproj.CoreCompileInputs.cache
+C:\Users\Kuba\Documents\cv\git\BooleanExpressionParser\BooleanExpressionParser\bin\Debug\BooleanExpressionParser.exe.config
+C:\Users\Kuba\Documents\cv\git\BooleanExpressionParser\BooleanExpressionParser\bin\Debug\BooleanExpressionParser.exe
+C:\Users\Kuba\Documents\cv\git\BooleanExpressionParser\BooleanExpressionParser\bin\Debug\BooleanExpressionParser.pdb
+C:\Users\Kuba\Documents\cv\git\BooleanExpressionParser\BooleanExpressionParser\obj\Debug\BooleanExpressionParser.exe
+C:\Users\Kuba\Documents\cv\git\BooleanExpressionParser\BooleanExpressionParser\obj\Debug\BooleanExpressionParser.pdb
