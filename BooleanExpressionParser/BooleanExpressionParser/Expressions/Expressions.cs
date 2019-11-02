@@ -78,7 +78,7 @@ namespace LAB5B
         }
         public override string ToString()
         {
-            return $"{firstExpression} AND {secondExpression}";
+            return $"({firstExpression} AND {secondExpression})";
         }
     }
 
@@ -97,7 +97,7 @@ namespace LAB5B
         }
         public override string ToString()
         {
-            return $"{firstExpression} OR {secondExpression}";
+            return $"({firstExpression} OR {secondExpression})";
         }
 
     }
